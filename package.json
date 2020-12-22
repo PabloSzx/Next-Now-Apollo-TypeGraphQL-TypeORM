@@ -39,7 +39,7 @@
     "@types/node-notifier": "^5.4.0",
     "@types/react": "16.8.25",
     "@types/react-dom": "16.8.5",
-    "node-notifier": "^5.4.1",
+    "node-notifier": "^8.0.1",
     "now": "^16.1.1",
     "typescript": "^3.5.3"
   }
